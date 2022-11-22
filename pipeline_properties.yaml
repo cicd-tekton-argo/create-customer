@@ -6,7 +6,7 @@ integrationServer:
   applicationName: createcustomerrestcallingws
   releaseName: create-customer-details-rest
   license:
-    license: L-APEH-C9NCK6
+    license: L-APEH-C9NCDM
     use: CloudPakForIntegrationNonProduction
   service:
     endpointType: http
